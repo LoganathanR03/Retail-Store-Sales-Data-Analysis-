@@ -63,19 +63,6 @@ Below are some of the key visualizations generated during the EDA phase:
 | **Mostly Used Location for each Category** | Count plot revealing In-store vs. Online preferences. |
 | **Sales by Days of Week** | Bar plot confirming weekend spikes in sales. |
 
-## 🚀 How to Run the Project
-
-1.  **Clone the Repository:**
-    ```bash
-    git clone [Your-Repo-Link]
-    ```
-2.  **Install Dependencies:**
-    ```bash
-    pip install pandas numpy matplotlib seaborn
-    ```
-3.  **Run the Notebook:**
-    Open the `retail_store_sales_analysis.ipynb` file in Jupyter Notebook or JupyterLab and run the cells sequentially.
-
 ## 📝 Future Scope
 
 * Perform customer segmentation (e.g., using RFM analysis).
